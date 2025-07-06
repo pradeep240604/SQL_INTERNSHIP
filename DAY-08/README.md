@@ -63,8 +63,3 @@ WHERE salary > (
 - Correlated subqueries reference columns from the outer query.
 
 ---
-
-## 🔗 Related Days
-
-- [Day 7](https://github.com/umarsharook/Sql_Internship/tree/main/Day7)
-- [Day 9 (if available)](https://github.com/umarsharook/Sql_Internship/tree/main/Day9)
