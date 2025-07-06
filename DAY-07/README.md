@@ -59,9 +59,4 @@ HAVING COUNT(*) > 5;
 - Ensure that data is grouped correctly before applying conditions in `HAVING`.
 - `HAVING` is applied **after** `GROUP BY`, unlike `WHERE`.
 
----
-
-## 🔗 Related Days
-
-- [Day 6](https://github.com/umarsharook/Sql_Internship/tree/main/Day6)
-- [Day 8 (if available)](https://github.com/umarsharook/Sql_Internship/tree/main/Day8)
+-
