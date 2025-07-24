@@ -1,3 +1,7 @@
+FINAL PROJECT - SQL Internship
+Author: Sai Pradeep Kala
+GitHub Username: pradeep240604
+Email: saipradeep2464@gmail.com
 🏬 Inventory and Warehouse Management System
 
 This project is a comprehensive SQL-based backend solution designed for managing and tracking inventory across multiple warehouses. Built using *MySQL* and *DBeaver*, it demonstrates core concepts in relational database design, procedural SQL, and warehouse operations automation.
